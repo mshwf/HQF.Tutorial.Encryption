@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HQF.Tutorial.Encryption", "HQF.Tutorial.Encryption\HQF.Tutorial.Encryption.csproj", "{8797D5E7-56A8-486F-8F51-6EFFECC4D0AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77E3ABEA-EF9F-470D-8A6E-BB151D74F190}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HQF.Tutorial.Encryption.WinForm", "HQF.Tutorial.Encryption.WinForm\HQF.Tutorial.Encryption.WinForm.csproj", "{87B69EDD-71CE-4E2C-A128-13DBCFAE1490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HQF.Tutorial.Encryption.Conso", "HQF.Tutorial.Encryption.Console\HQF.Tutorial.Encryption.Conso.csproj", "{78171567-32BC-4A33-A396-63ACE19C2022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8797D5E7-56A8-486F-8F51-6EFFECC4D0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8797D5E7-56A8-486F-8F51-6EFFECC4D0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8797D5E7-56A8-486F-8F51-6EFFECC4D0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8797D5E7-56A8-486F-8F51-6EFFECC4D0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B69EDD-71CE-4E2C-A128-13DBCFAE1490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B69EDD-71CE-4E2C-A128-13DBCFAE1490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B69EDD-71CE-4E2C-A128-13DBCFAE1490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B69EDD-71CE-4E2C-A128-13DBCFAE1490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78171567-32BC-4A33-A396-63ACE19C2022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78171567-32BC-4A33-A396-63ACE19C2022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78171567-32BC-4A33-A396-63ACE19C2022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78171567-32BC-4A33-A396-63ACE19C2022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

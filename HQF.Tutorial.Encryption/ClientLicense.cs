@@ -46,7 +46,7 @@ namespace HQF.Tutorial.Encryption
             var expiry = DateTime.ParseExact(
                 _license.SelectSingleNode("//Expires").InnerText,
                 "dd/MM/yyyy HH:mm:ss",
-                CultureInfo.InvariantCulture);
+                null);
 
             if (expiry < DateTime.Now)
             {
